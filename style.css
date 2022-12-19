@@ -1,0 +1,32 @@
+
+a{
+    text-decoration: none;
+    margin: 4px;
+    border: 2px solid black;
+    padding: 6px;
+    background-color:whitesmoke;
+    color:black;
+    font-weight:bold;
+   
+
+}
+
+a:hover{
+    color: blue;
+}
+
+span{
+ 
+   color: rgb(0, 0, 0);
+   margin-top: 100px;
+    
+}
+
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: tomato;    
+}
+body{
+    background-image: url("https://cdn5.vectorstock.com/i/1000x1000/78/04/open-book-background-flat-design-vector-5877804.jpg")
+}
